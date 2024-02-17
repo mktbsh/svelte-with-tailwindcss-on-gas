@@ -11,7 +11,6 @@
   "eslint.validate": ["svelte"],
   "css.validate": false,
   "scss.validate": false,
-  "stylelint.validate": ["css", "postcss", "svelte"],
   "typescript.tsdk": "node_modules/typescript/lib",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

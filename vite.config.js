@@ -15,8 +15,7 @@ export default defineConfig({
     },
   },
   build: {
-    minify: 'terser',
-    target: 'es2021',
+    target: 'es2022',
     polyfillModulePreload: false,
   },
 });
