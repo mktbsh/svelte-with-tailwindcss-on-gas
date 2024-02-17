@@ -4,9 +4,9 @@
   "editor.formatOnPaste": false,
   "editor.formatOnType": false,
   "editor.codeActionsOnSave": {
-    "source.addMissingImports": true,
-    "source.fixAll.eslint": true,
-    "source.fixAll.stylelint": true
+    "source.addMissingImports": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
   },
   "eslint.validate": ["svelte"],
   "css.validate": false,
